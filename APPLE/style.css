@@ -1,0 +1,577 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+html {
+    height:100%;
+    width:100%;
+    /* margin: 0; */
+    font-family: 'Roboto', sans-serif;
+    /* border: 5px dashed red; */
+}
+.tab {
+    list-style: none;
+    display:flex;
+    background : white;
+}
+
+.margin {
+    
+    margin-left: 2.6vw; 
+    /* margin-left: 40px; */
+    margin-top: inherit;
+}
+
+.black {
+    background: #2D2727;
+    color: white;
+}
+.logo-margin {
+    margin-top: inherit;
+    
+}
+.logo-height {
+    height: 2.7vh;
+}
+
+.container {
+    margin-top: -16px;
+    margin-left: -9px;
+    margin-right: -9px;
+    
+}
+
+.navbar{
+    top: 0;
+    position: sticky;
+}
+
+.center{
+    /* margin-left: 110px; */
+    margin-left: 9vw;
+    padding-left: inherit;
+}
+
+div ul li {
+    padding-bottom: 11px;
+    padding-top: 6px;
+    
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+    color:aqua;
+    font-size: small;
+}
+
+/* Second div */
+.header2 {
+    height:50px;
+    background-color: #4b4343;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -15px;
+    
+}
+
+a {
+    color: rgb(81, 143, 214);
+}
+
+.pixel {
+    padding-left: 210px;
+    padding-top: 15px;
+}
+
+.main {
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    background-color:rgb(0, 0, 0);
+    padding-top: -15px;
+    /* margin-top: -593px; */
+    margin-top: -19px;
+}
+.content {
+    font-size: 35px;
+    padding-left: 465px;
+    padding-top: 1px;
+    /* margin-top: -510px; */
+    
+}
+
+
+
+.pad {
+    padding-left: 75px;
+}
+
+h3 {
+    font-size: smaller;
+    margin-top: -40px;
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    font-size: large;
+}
+
+.list {
+    list-style: none;
+}
+
+.list2 {
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+.list3 {
+    margin-top: -41px;
+    margin-left: 320px;
+}
+
+/* Img */
+
+.spec {
+    height: 550px;
+    padding-left: 120px;
+    margin-left: -120px;
+    margin-top: 200px;
+    height: 100%;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.div2 {
+    margin-top: 368px;
+    background-color: white;
+    color: black;
+    margin-top: -4px;
+    
+}
+
+.margin2 {
+    margin-left: 55px;
+}
+
+.vid-margin {
+    margin-top: -5px;
+}
+
+h2 {
+    color:white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.footer-img {
+    margin-left: 604px;
+    margin-top: -230px;
+}
+
+.margin-h2 {
+    margin-left: -193px;
+}
+
+.btn {
+    text-decoration: none;
+    color:black;
+    padding: 13px 20px;
+    border-radius: 25px;
+    font-size: 15px;
+    border:#363232;
+}
+
+.anchor {
+    margin-left: -28px
+}
+
+.anchor2 {
+    margin-left: 29px;
+}
+
+.footer-apple {
+    margin-left: -270px;
+    margin-top: 41px;
+}
+
+.footer-mac {
+    height: 450px;
+    width: 800px;
+    margin-left: 192px;
+    margin-top: 16%;
+}
+
+.mac {
+    margin-top: -625px;
+    margin-left: 358px;
+}
+
+.color {
+    color:black;
+    text-indent: -90px;
+    margin-top: -15px;
+    font-size: larger;
+    margin-left: 7px;
+}
+
+.wonder {
+    margin-left: 250px;
+    margin-top: -540px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.margin3{
+    margin-left: 70px;
+    font-size: medium;
+}
+
+.shop {
+    margin-top: -19px;
+}
+
+.margin4 {
+    margin-top: -114px;
+    margin-left: 900px;
+}
+
+.margin-mac {
+    margin-left: -65px;
+}
+
+.more {
+    margin-left: -110px;
+}
+
+.footer-watch {
+    margin-top: 396px;
+    margin-left: -250px
+}
+
+.footer-tab {
+    margin-left: 799px;
+    margin-top: -583px;
+}
+
+.center2 {
+    margin-top: -540px;
+    margin-left: 310px;
+}
+
+.find-h4 {
+    font-size: larger;
+    margin-top: -1px;
+    margin-left: -19px;
+}
+
+.buy {
+    padding-left: 29px;
+}
+
+.buy2 {
+    padding-left: 30px;
+    
+}
+
+.ipad {
+    margin-left: 1020px;
+    margin-top: -125px;
+    margin-top: -110px;
+}
+
+.ipad-text {
+    font-size: larger;
+    margin-top: -20px;
+    margin-left: -80px;
+    /* font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif; */
+}
+
+.learn {
+    padding-left: 8px
+}
+
+.learn2 {
+    padding-left: 12px;
+}
+
+.air {
+    padding-top: 433px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.iphone {
+    width: 705px;
+    margin-left: 636px;
+    height: 81.25vh;
+    width: 47.2vw;
+    padding-left: 59px;
+}
+
+.margin5 {
+    margin-top: -530px;
+}
+
+.color2 {
+    color:white;
+    margin-left: 292px;
+    margin-top: -500px;
+}
+
+.podes {
+    margin-left: -36px;
+}
+
+.tradeIn {
+    margin-left: 950px;
+    margin-top: -85px;
+}
+
+.styling {
+    margin-left: -55px;
+    margin-top: 10px;
+    font-size: larger;
+}
+
+.style {
+    font-size: medium;
+    margin-left: -28px;
+}
+
+.margin6 {
+    margin-top: -15px;
+}
+
+.bg-margin {
+    margin-top: 385px;
+    margin-left: 50px;
+}
+
+/* .slide{
+    height: 100%;
+    width:94%;
+    position: absolute;
+} */
+
+.nav {
+    text-align:center;
+    margin-top: 1015px;
+}
+
+.nav-button {
+    font-size:25px;
+    padding:5px;
+}
+
+.slider{
+    width: 1200px;
+    height: 630px;
+    border-radius: 10px;
+    overflow:hidden;
+    margin-top: 385px;
+    margin-left: 70px;
+
+}
+.slides{
+    width: 500%;
+    height: 500px;
+    display: flex;
+}
+
+.slides input {
+    display: none;
+}
+
+.slide{
+    width: 20%;
+    transition: 2s;
+}
+
+.slide img {
+    width: 1200px;
+    height: 630px;
+
+}
+/*  manual navigation*/
+.nav-manual{
+    position: absolute;
+    width: 800px;
+    margin-top: -40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.manual-btn{
+    border: 2px solid rgb(108, 109, 109);
+    padding: 3px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+    margin-top: 190px;
+    
+
+}
+
+.manual-btn:not(:last-child) {
+    margin-right: 40px;
+}
+
+.manual-btn:first-child {
+    margin-left: 400px;
+}
+
+.manual-btn:hover{
+    background: black;
+
+}
+
+#radio1:checked ~ .first{
+    margin-left: 0;
+
+}
+#radio2:checked ~ .first{
+    margin-left: -20%;
+
+}
+#radio3:checked ~ .first{
+    margin-left: -40%;
+
+}
+#radio4:checked ~ .first{
+    margin-left: -60%;
+
+}
+
+/* Automatic */
+.nav-auto{
+    position: absolute;
+    display: flex;
+    width: 800px;
+    justify-content: center;
+    margin-top: 460px;
+}
+
+.nav-auto div{
+    border: 2px solid black;
+    padding: 3px;
+    border-radius: 10px;
+    transition: 1s;
+    margin-top: 190px;
+}
+
+.nav-auto div:not(:last-child) {
+    margin-right: 40px;
+}
+
+.nav-auto div:first-child{
+    margin-left: 400px;
+}
+
+#radio1:checked ~ .nav-auto .auto-btn1{
+    background: #0d0e0d;
+}
+#radio2:checked ~ .nav-auto .auto-btn2{
+    background: #0d0e0d;
+}
+#radio3:checked ~ .nav-auto .auto-btn3{
+    background: #0d0e0d;
+}
+#radio4:checked ~ .nav-auto .auto-btn4{
+    background: #0d0e0d;
+}
+
+/* Footer designing */
+.para{
+    text-align:center;
+    font-size: 12px;
+    margin-top: 60px;
+    text-align: left;
+    margin-right: 222px;
+    margin-left: 222px;
+}
+
+.line{
+    text-align:center;
+}
+.divider{
+    height: 1px;
+    width: 914px;
+    background-color: black;
+    display: inline-block;
+}
+.bold{
+    font-weight: 1000;
+}
+
+.list ul li{
+    list-style: none;
+    font-size: 12px;
+    text-indent: 200px;
+}
+
+.ul1{
+    margin-left: -18px;
+}
+
+.ul2{
+    margin-top: -356px;
+    margin-left: 200px;
+}
+
+.ul3{
+    margin-top: -141px;
+    margin-left: 400px;
+}
+.ul4{
+    margin-top: -326px;
+    margin-left: 600px;
+}
+.ul5{
+    margin-top: -109px;
+    margin-left: 800px;
+}
+
+.ul6{
+    margin-top: 154px;
+    margin-left: -18px;
+}
+
+.ul7{
+    margin-top: -293px;
+    margin-left: 200px;
+}
+
+.ul8{
+    margin-top: -296px;
+    margin-left: 600px;
+}
+
+.ul9{
+    margin-top: -16px;
+    margin-left: 600px;
+}
+
+.ul10{
+    margin-top: -140px;
+    margin-left: 800px;
+}
+
+.footer-last{
+    font-size: 12px;
+}
+.footer-last p{
+    margin-left:226px;
+    margin-top:23px;
+}
+
+.text-small{
+    font-size:12px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:155px;
+}
+
